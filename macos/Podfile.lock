@@ -1,0 +1,35 @@
+PODS:
+  - flutter_blue_plus (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - siri_shortcuts (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_blue_plus (from `Flutter/ephemeral/.symlinks/plugins/flutter_blue_plus/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - shared_preferences_foundation (from `Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/macos`)
+  - siri_shortcuts (from `Flutter/ephemeral/.symlinks/plugins/siri_shortcuts/macos`)
+
+EXTERNAL SOURCES:
+  flutter_blue_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_blue_plus/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  shared_preferences_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/macos
+  siri_shortcuts:
+    :path: Flutter/ephemeral/.symlinks/plugins/siri_shortcuts/macos
+
+SPEC CHECKSUMS:
+  flutter_blue_plus: e2868679021f19d12a8c0c58a33f1df66ec7fa6a
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+  shared_preferences_foundation: 5b919d13b803cadd15ed2dc053125c68730e5126
+  siri_shortcuts: 94c236f8d6ede8ed06f0b95ef92dcdac6521acf3
+
+PODFILE CHECKSUM: acc5b1456dc9dca4423723c18c036987b4c01b93
+
+COCOAPODS: 1.15.2
