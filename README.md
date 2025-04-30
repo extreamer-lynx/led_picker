@@ -1,6 +1,6 @@
-# led_picker
+# Mouhuan LED Picker
 
-A new Flutter project.
+Just reversed chinese LED
 
 ## Getting Started
 
