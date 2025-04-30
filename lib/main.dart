@@ -6,7 +6,6 @@ import 'src/app.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
-
   runApp(
     EasyLocalization(
       supportedLocales: const [Locale('en')],
